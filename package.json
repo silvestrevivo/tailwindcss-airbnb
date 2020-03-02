@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-airbnb",
+  "version": "1.0.0",
+  "description": "simple landing page using tailwindcss",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvestrevivo/tailwindcss-airbnb.git"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "@silvestrevivo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvestrevivo/tailwindcss-airbnb/issues"
+  },
+  "homepage": "https://github.com/silvestrevivo/tailwindcss-airbnb#readme",
+  "devDependencies": {
+    "tailwindcss": "^1.2.0"
+  }
+}
